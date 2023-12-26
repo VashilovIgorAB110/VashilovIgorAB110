@@ -238,7 +238,7 @@ reader.readAsText(file);
   function drawChart() {
     var cvet = ['#C21460','#ff0000','#00ff00','#764097','#583075'];
     var options = {
-       backgroundColor: '#a0a1a6', 
+       backgroundColor: '#D3D3D3', 
        width: 1000, // минимальная ширина графика
        height: 1000,
        legend: { position: 'top' },
